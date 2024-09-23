@@ -1,2 +1,1 @@
-import {greet} from "./m1";
-export {greet};
+export {greet} from "./m1";

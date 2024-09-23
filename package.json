@@ -8,9 +8,11 @@
     "dist/**/*"
   ],
   "scripts": {
-    "build": "tsc"
+    "build": "tsc --project tsconfig.build.json"
   },
-  "dependencies": {},
+  "dependencies": {
+    "websocket-ts": "^2.1.5"
+  },
   "devDependencies": {
     "typescript": "^5.5.3"
   },

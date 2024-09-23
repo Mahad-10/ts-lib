@@ -1,2 +1,1 @@
-import {greet} from "./module1";
-export {greet};
+export {greet} from "./module1";
